@@ -1,0 +1,68 @@
+@charset"UTF-8";
+
+body{
+	background-color: beige;
+}
+
+h1{
+	text-align: center;
+	color: blueviolet;
+	font-family: sans-serif;
+}
+
+h2{
+	text-align: left;
+	color: blueviolet ;
+	font-family: sans-serif;
+}
+
+p{
+	text-align: justify;
+	text-indent: 50px;
+}
+
+.p1{
+	font size: 20px;
+	text-align: center;
+	color: black;
+	font-family: sans-serif;
+
+}
+.pt1{
+	text-align: center;
+}
+.l1{
+	font-family: sans-serif;
+	color: green;
+	font-size: 30px;
+}
+
+.bt1{
+	font-family: sans-serif;
+	text-align: center;
+	font-size: 30px;
+}
+
+.fig1{
+	text-align: center;
+}
+.l2{
+	font-family: sans-serif;
+	color: darkgreen;
+	font-size: 30px;
+}
+.pt2{
+	text-align: center;
+	font-size: 10px;
+}
+
+.l2{
+	text-align: left;
+	font-family: sans-serif;
+	color: red;
+	font-size: 20px;
+}
+.d1{
+	font-family: sans-serif;
+	color: blueviolet;
+}
